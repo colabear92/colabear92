@@ -9,9 +9,14 @@
 
 모른척 해주면 좋겠다.
 
-### -콜라베어의 프로젝트
+---
+
+### -콜라베어의 프로젝트 목록
 [테스트 모음 사이트]
 https://colabear92.github.io/
+콜라베어는 4주정도 잠시 시간이 생겨서 잠좀 잘까하다가... 공부도 할겸 유행하는 사이트들을 적절히
+벤치마킹해 콜라베어만의 아이디어를 활용해 재밌는 테스트 사이트를 만들었어..!
+생각외로 공부가 많이 되더라구? 시간이 나면 한번 이용해봐줘!
 
 <!--
 **colabear92/colabear92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
