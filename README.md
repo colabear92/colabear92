@@ -9,8 +9,6 @@
 
 모른척 해주면 좋겠다.
 
-현직 신입 개발자이긴 합니다 ㅠ.ㅠ
-
 <!--
 **colabear92/colabear92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
